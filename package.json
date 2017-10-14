@@ -1,0 +1,19 @@
+{
+  "name": "express-js-rest-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "private": true,
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+    "morgan": "^1.9.0"
+  }
+}
